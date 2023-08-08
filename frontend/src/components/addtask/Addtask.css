@@ -1,0 +1,19 @@
+.height {
+  height: 66px;
+  border: 1px dashed rgb(242, 236, 236);
+  background-image: url('../../assets/icons8-add-30.png');
+  background-repeat: no-repeat;
+  background-position: 0pt;
+  background-position-x: 8.5rem;
+  color: white;
+  font-weight: 700;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+.btn:hover {
+  border-color: white;
+  color: white;
+  opacity: 1;
+}
+
